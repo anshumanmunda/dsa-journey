@@ -7,12 +7,13 @@ This repository is a comprehensive log of my progress through a full-fledged DSA
 
 ## 📊 Problem Solving Tracker
 
-| Difficulty | LeetCode | GeeksforGeeks | Total |
-| :--- | :---: | :---: | :---: |
-| <img src="https://img.shields.io/badge/-Easy-brightgreen?style=flat-square" alt="Easy" /> | **0** | **0** | **0** |
-| <img src="https://img.shields.io/badge/-Medium-orange?style=flat-square" alt="Medium" /> | **0** | **0** | **0** |
-| <img src="https://img.shields.io/badge/-Hard-red?style=flat-square" alt="Hard" /> | **0** | **0** | **0** |
-| **Current Totals** | **0** | **0** | **0** |
+| Difficulty | LeetCode | GeeksforGeeks | Coding Ninjas | Total |
+| :--- | :---: | :---: | :---: | :---: |
+| <img src="https://img.shields.io/badge/-Easy-brightgreen?style=flat-square" alt="Easy" /> | **0** | **0** | **1** | **1** |
+| <img src="https://img.shields.io/badge/-Medium-orange?style=flat-square" alt="Medium" /> | **1** | **0** | **0** | **1** |
+| <img src="https://img.shields.io/badge/-Hard-red?style=flat-square" alt="Hard" /> | **0** | **0** | **0** | **0** |
+| **Current Totals** | **1** | **0** | **1** | **2** |
+
 
 <!-- ### 🏆 Current Milestones
 ![Streak](https://img.shields.io/badge/Streak-15%20Days-ff69b4?style=flat-square&logo=fire) 
