@@ -57,6 +57,3 @@ Each folder is organized to keep the learning process modular and easy to review
 * **Code:** Well-commented solutions (primarily `.ipynb` or `.py`).
 * **Complexity:** Detailed Time ($O(N)$) and Space complexity analysis for every problem.
 
-
----
-*Created and maintained with 💻 by Anshuman Munda*
