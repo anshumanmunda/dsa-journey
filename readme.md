@@ -30,7 +30,7 @@ This repository is a comprehensive log of my progress through a full-fledged DSA
 | Section | Topic | Status |
 | :--- | :--- | :--- |
 | 01 | [Basics Of Programming](./01-basics-of-programming/) | ⏳ In Progress |
-| 02 | [Sorting Algorithms](./02-sorting-algorithms/) | ⚪ Not Started |
+| 02 | [Sorting Algorithms](./02-sorting-algorithms/) | ⏳ In Progress |
 | 03 | [List/Array Leetcode Problems](./03-list-array-leetcode-problems/) | ⚪ Not Started |
 | 04 | [Binary Search](./04-binary-search/) | ⚪ Not Started |
 | 05 | [Strings](./05-strings/) | ⚪ Not Started |
